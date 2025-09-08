@@ -1,2 +1,2 @@
-# Numerical-Recipes-in-Biomechanics
+# Numerical Recipes in Biomechanics
 Python code for Biomechanics
